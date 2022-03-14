@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1609255562 source:d:\cpp\gauss_jn\main.cpp
+	<iostream>
+	<iostream>
+	<fstream>
+
+1609348191 source:c:\users\kuba\desktop\uczelnia\archiwum\gauss_jn\main.cpp
+	<iostream>
+	<iostream>
+	<fstream>
+
